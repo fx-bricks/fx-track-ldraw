@@ -45,6 +45,10 @@ Make sure to reload/re-index the parts library in any tool that uses your LDraw 
 - Original [LPub](http://lpub.binarybricks.nl) publishing tool by Kevin Clague
 - [LPub3D](https://trevorsandy.github.io/lpub3d/) successor to LPub by Trevor Sandy
 - [Manual](https://sites.google.com/site/workingwithlpub/lpub-4) for Legacy LPub 4 tool (last version by Kevin Clague)
+
+### See Also
+
+- [L-Gauge.org RC Track](https://github.com/l-gauge/ldraw-lib) repository for LDraw models of standard RC/plastic track elements
   
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
