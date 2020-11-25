@@ -1,0 +1,12 @@
+0 FxTrack FxTrackS16.dat
+0 FILE FxTrackS16.dat
+0 Name: FxTrackS16.dat
+0 Author: Fx Bricks
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 4.0 BY-NC-SA
+0 // Copyright 2020 Fx Bricks Inc.
+0 BFC CERTIFY CCW
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s/S16.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s/S16InnerRail.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s/S16OuterRail.dat
+0 NOFILE

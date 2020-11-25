@@ -1,0 +1,10 @@
+.DS_Store
+*.step
+*.stl
+.vscode
+/cad
+*.o
+*.o.d
+.Trashes
+Thumbs.db
+ehthumbs.db

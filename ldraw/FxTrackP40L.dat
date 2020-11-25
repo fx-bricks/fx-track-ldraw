@@ -1,0 +1,23 @@
+0 FxTrack FxTrackP40L.dat
+0 FILE FxTrackP40L.dat
+0 Name: FxTrackP40L.dat
+0 Author: Fx Bricks
+0 !LDRAW_ORG Unofficial_Part
+0 !LICENSE Redistributable under CCAL version 4.0 BY-NC-SA
+0 // Copyright 2020 Fx Bricks Inc.
+0 BFC CERTIFY CCW
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s/LP40.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s/LTieBar.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s/LSwitchLeft.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s/LSwitchRight.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s/LSwitchLeftMetal.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s/LSwitchRightMetal.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s/L1Metal.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s/L2Metal.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s/L3Metal.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s/L4Metal.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s/L5Metal.dat
+1 383 0 0 0 1 0 0 0 1 0 0 0 1 s/L6Metal.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s/LCover1.dat
+1 72 0 0 0 1 0 0 0 1 0 0 0 1 s/LCover2.dat
+0 NOFILE
