@@ -26,7 +26,6 @@ Make sure to reload/re-index the parts library in any tool that uses your LDraw 
 
 ![alt text](./images/TurnoutConfigurations.png "FxTrackSystem")
 
-
 ## References
 
 - [LDraw.org](https://www.ldraw.org) - Official maintainer of the LDraw file format specification and the LDraw official part library.
